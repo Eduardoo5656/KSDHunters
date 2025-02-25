@@ -1,0 +1,35 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KSDungeonHunters - Albion Online</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>KSDungeonHunters</h1>
+        <p>A guilda definitiva para Quem Quer Diversão e amigos novos!!</p>
+    </header>
+    
+    <main>
+        <section class="card">
+            <h2>Sobre a Guilda</h2>
+            <p>Somos uma guilda Focada em ajudar novatos e em qualquer tipo de conteudo.
+                <br>
+                 Venha jogar com a gente!</p>
+        </section>
+        
+        <section class="card">
+            <h2>Recrutamento</h2>
+            <p>Aceitamos jogadores de todos os níveis! <br>Junte-se a nós e não se esqueça diversão em primeiro lugar!!</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>Entre em contato:</p>
+        <div class="buttons">
+            <a href="https://discord.gg/DVQg4Xgf" class="discord">Discord</a>
+        </div>
+    </footer>
+</body>
+</html>
